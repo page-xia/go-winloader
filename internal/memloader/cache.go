@@ -3,7 +3,7 @@ package memloader
 import (
 	"strings"
 
-	"github.com/page-xia/go-winloader/internal/loader"
+	"github.com/page-xia/ns-winloader/internal/loader"
 )
 
 // Cache implements a memory cache for PE modules.

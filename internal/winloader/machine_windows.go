@@ -1,8 +1,8 @@
 package winloader
 
 import (
-	"github.com/page-xia/go-winloader/internal/loader"
-	"github.com/page-xia/go-winloader/internal/vmem"
+	"github.com/page-xia/ns-winloader/internal/loader"
+	"github.com/page-xia/ns-winloader/internal/vmem"
 )
 
 // NativeMachine is a loader.Machine implementation that uses the native

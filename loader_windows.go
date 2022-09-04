@@ -1,8 +1,8 @@
 package winloader
 
 import (
-	"github.com/page-xia/go-winloader/internal/memloader"
-	"github.com/page-xia/go-winloader/internal/winloader"
+	"github.com/page-xia/ns-winloader/internal/memloader"
+	"github.com/page-xia/ns-winloader/internal/winloader"
 )
 
 var native = winloader.Loader{}

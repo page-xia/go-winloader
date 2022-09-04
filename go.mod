@@ -1,4 +1,4 @@
-module github.com/page-xia/go-winloader
+module github.com/page-xia/ns-winloader
 
 go 1.14
 
