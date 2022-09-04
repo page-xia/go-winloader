@@ -1,4 +1,4 @@
-module github.com/jchv/go-winloader
+module github.com/page-xia/go-winloader
 
 go 1.14
 
