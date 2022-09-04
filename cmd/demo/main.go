@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/jchv/go-winloader"
+	"github.com/page-xia/go-winloader"
 )
 
 func main() {

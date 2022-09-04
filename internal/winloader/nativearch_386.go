@@ -1,7 +1,7 @@
 package winloader
 
 import (
-	"github.com/jchv/go-winloader/internal/pe"
+	"github.com/page-xia/go-winloader/internal/pe"
 )
 
 // NativeArch is a constant that will be equal to the PE machine type
